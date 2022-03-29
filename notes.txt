@@ -1,0 +1,9 @@
+$man echo - short description: 
+    write arguments to the standard output
+$man echo - long description: 
+    The echo utility writes any specified operands,
+    separated by single blank (‘ ’) characters and
+    followed by a newline (‘\n’) character, to the
+    standard output.
+
+$man echo -n:    Will not print the trailing newline character.
